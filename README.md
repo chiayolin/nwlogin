@@ -2,7 +2,7 @@ nwlogin
 =======
 
 `nwlogin` is a simple script does a dirty trick of opening up the Wi-Fi login page of a 
-network when a login is  required but the page isn't poping up on Mac OS X.
+network when a login is required but the page isn't poping up on Mac OS X.
 
 Installing
 ----------
